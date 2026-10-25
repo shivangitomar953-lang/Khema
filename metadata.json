@@ -1,0 +1,6 @@
+{
+  "name": "Unique Editor Ji Academy",
+  "description": "Customizable online course platform and admin studio for Unique_editor_ji Academy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
